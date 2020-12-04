@@ -1,0 +1,58 @@
+LISTADOS:
+	prototipos
+	void ListarCliente()
+	void ListarClientes()
+	void ListarArticulo()
+	void ListarArticulos()
+	void ListarArticulosMasVendidos()
+	void ListarArticulosMenosVendidos()
+	void ListarVenta()
+	void ListarUsuarios()
+	void ListarUsuario()
+	int contar_veces_vendido(int)
+	
+	
+VENTAS:
+	void Venta::Leer_Venta(int)
+	void Venta::Mostrar_Venta()
+
+USUARIOS:
+	void User::Guardar_Usuario( int pos )
+	void User::Leer_Usuario( int pos )
+
+PRODCUCTOS:
+	void Producto::Guardar_Producto( int pos )
+	void Producto::Leer_Producto( int pos )
+
+CLIENTES:
+	void Cliente::Guardar_Cliente( int pos )
+	void Cliente::Leer_Cliente( int pos )
+
+FUNCIONES_UTILES:
+	int Buscar_Venta(int);
+	void modificar_Stock();
+	void eliminar_Producto();
+	
+
+MENUES:
+	void Menu_Listados()	
+
+CLASES 	(User):
+	void Leer_Usuario(int);
+	(Cliente):
+	void Guardar_Venta();
+	(Producto):
+	void Leer_Producto(int);
+	(Venta):
+	void Leer_Venta(int);
+	void Mostrar_Venta()
+	(Fecha):
+	void mostrarFecha()
+	
+
+-----------------------------------------------------------------
+Hice un cambio chiquito, para que el usuario admin (Legajo 1000) no pueda cambiar su contraseña, para evitar la perdida del usuario y la recompilacion
+
+-----------------------------------------------------------------
+Cambié en los mostrar() la parte de apertura de archivo y tus MostrarVenta().
+Varias boludeces, más que nada en cómo se mostraban las cosas

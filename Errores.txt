@@ -1,0 +1,68 @@
+RESUELTO:
+	- En alta de Usuarios:
+		- Al hacer el alta del tipo, si lo ponías la primera vez mal y después "bien", con el getch() guardaba cualquier cosa (no llegabas a guardar, daba error)
+	- Alta de Productos
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////
+Lo que si te pido chabon, si podes proba todo lo que es eliminar articulos, cambiar stock, todo lo que sea tanto de usuarios, articulos, ventas blah blah que haga cambios, porque no lo probe. Para que te des una idea, lo que hice fue toquetear todo y que funcione para lo que son cargas, que me permita rehacer los archivos! ;)
+
+Errores de la version "RESUELTO"
+NO RESUELTOS:
+	
+	- En alta de Productos:
+		- Lo mismo que los anteriores, al poner mal un precio, strock o tipo, no te deja salir, tenes que cargarlo si o si, no lo cambie, porque para hacerlo con getch es lindo bondi.
+		
+
+	
+	
+RESUELTOS: 
+	
+	- Alta de usuarios
+		- Deja cargar cualquier tipo a la hora de dar de alta usuario (Corregido, Cambiado en Alta_Usuario(), bool continuar; por bool continuar = true; )
+		- Al cargar tipo de usuario, en el caso de error, no te dejaba ni corregir ni salir del programa (Cambiado, agregado en cin>>Tipo; para que se pueda ingresar nuevamente.)
+	- Alta de clientes
+		- No carga tipo y guarda basura (Resuelto, cambiado Alta_Cliente(), bool continuar; por  = true)
+
+
+Cambios:
+	- En los listados:
+		- Listar usuario (Por codigo) ya no muestra los datos del usuario ADMIN
+		- Listar usuarios (Todos), solo muestra el legajo, e indica que es el usuario admin
+		- En Producto::mostrar_Producto, hago que tambien muestre el numero de categoria
+		
+	- En los archivos:
+		- Rehechos:
+			-Archivo Usuarios.dat
+			-Archivo Clientes.dat
+			-Archivo Productos.dat
+			-Archivo Preventa.dat
+			-Archivo Ventas.dat
+			-Archivo Descuentos.dat
+			
+			
+	- En clientes:
+		- Rehice el alta de usuarios (No todo), cambie como se carga el tipo, lo mismo con usuarios, si te equivocabas no te permitia salir, cambie el cin>>Tipo, por Tipo = getch(), y adapte todo el guardado para que guarde el tipo correcto
+
+////////////////////////////////////////////////////////////////
+
+Resueltos:
+
+	- No tomaba tipo de producto 11
+	- Se cambio(Se cargo con exito el siguiente cliente:) por (Se cargo con exito el siguiente articulo:) al mostrar el producto
+	- Error al elegir medio de pago, no elegia bien el metodo, cambie los case 49/50/51, por '1'/'2'/'3' respectivamente.
+	- Cambiados los textos al elegir medio de pago (Estaban cambiados)
+	- Estan invertidos los clientes, el descuento. Por lo menos al listar las ventas lo note, toma los comunes como con descuento y los premium como normales (no impacta al precio, ya lo probe, solo es visual)
+
+
+
+No resueltos:
+	- Hay algo raro en la venta, que no calcula bien los importes me parece. (probando) ((resuelto -creo ))
+	
+
+Agregado:
+	- Listar venta
+	- Listar Ventas
+
+
+////////////////////////////////////////////

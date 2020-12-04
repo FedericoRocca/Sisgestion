@@ -1,0 +1,244 @@
+# depslib dependency file v1.0
+1449168677 source:c:\users\sebastian\desktop\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"Headers/Clases.h"
+	"Headers/Funciones_Utiles.h"
+	"Headers/Fecha.h"
+	"Headers/User.h"
+	"Headers/Clientes.h"
+	"Headers/Productos.h"
+	"Headers/Ventas.h"
+	"Headers/Listados.h"
+	"Headers/Menues.h"
+
+1449265860 c:\users\sebastian\desktop\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\clases.h
+
+1449266068 c:\users\sebastian\desktop\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\funciones_utiles.h
+
+1449141643 c:\users\sebastian\desktop\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\fecha.h
+
+1449166959 c:\users\sebastian\desktop\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\user.h
+
+1449167069 c:\users\sebastian\desktop\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\clientes.h
+
+1449265860 c:\users\sebastian\desktop\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\productos.h
+
+1449144875 c:\users\sebastian\desktop\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\ventas.h
+
+1449144874 c:\users\sebastian\desktop\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\listados.h
+
+1449168668 c:\users\sebastian\desktop\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\menues.h
+
+1449515324 source:c:\users\magus\desktop\sisgestion corregido\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"Headers/Clases.h"
+	"Headers/Funciones_Utiles.h"
+	"Headers/Fecha.h"
+	"Headers/User.h"
+	"Headers/Clientes.h"
+	"Headers/Productos.h"
+	"Headers/Ventas.h"
+	"Headers/Listados.h"
+	"Headers/Menues.h"
+
+1449515324 c:\users\magus\desktop\sisgestion corregido\headers\clases.h
+
+1449519856 c:\users\magus\desktop\sisgestion corregido\headers\funciones_utiles.h
+
+1449141643 c:\users\magus\desktop\sisgestion corregido\headers\fecha.h
+
+1449515324 c:\users\magus\desktop\sisgestion corregido\headers\user.h
+
+1449167069 c:\users\magus\desktop\sisgestion corregido\headers\clientes.h
+
+1449521483 c:\users\magus\desktop\sisgestion corregido\headers\productos.h
+
+1449144875 c:\users\magus\desktop\sisgestion corregido\headers\ventas.h
+
+1449636714 c:\users\magus\desktop\sisgestion corregido\headers\listados.h
+
+1449636570 c:\users\magus\desktop\sisgestion corregido\headers\menues.h
+
+1449168677 source:c:\users\sebyp\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"Headers/Clases.h"
+	"Headers/Funciones_Utiles.h"
+	"Headers/Fecha.h"
+	"Headers/User.h"
+	"Headers/Clientes.h"
+	"Headers/Productos.h"
+	"Headers/Ventas.h"
+	"Headers/Listados.h"
+	"Headers/Menues.h"
+
+1449515324 c:\users\sebyp\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\clases.h
+
+1449695158 c:\users\sebyp\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\funciones_utiles.h
+
+1449141643 c:\users\sebyp\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\fecha.h
+
+1449166959 c:\users\sebyp\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\user.h
+
+1449167069 c:\users\sebyp\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\clientes.h
+
+1449695158 c:\users\sebyp\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\productos.h
+
+1449144875 c:\users\sebyp\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\ventas.h
+
+1449636714 c:\users\sebyp\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\listados.h
+
+1449695158 c:\users\sebyp\dropbox\tssi\laboratorio de computación ii\3° intento\sisgestion\sisgestion corregido\headers\menues.h
+
+1449699285 source:c:\users\sebyp\desktop\sisgestion corregido\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"Headers/Clases.h"
+	"Headers/Funciones_Utiles.h"
+	"Headers/Fecha.h"
+	"Headers/User.h"
+	"Headers/Clientes.h"
+	"Headers/Productos.h"
+	"Headers/Ventas.h"
+	"Headers/Listados.h"
+	"Headers/Menues.h"
+
+1449515324 c:\users\sebyp\desktop\sisgestion corregido\headers\clases.h
+
+1449707298 c:\users\sebyp\desktop\sisgestion corregido\headers\funciones_utiles.h
+
+1449141643 c:\users\sebyp\desktop\sisgestion corregido\headers\fecha.h
+
+1449166959 c:\users\sebyp\desktop\sisgestion corregido\headers\user.h
+
+1449167069 c:\users\sebyp\desktop\sisgestion corregido\headers\clientes.h
+
+1449704881 c:\users\sebyp\desktop\sisgestion corregido\headers\productos.h
+
+1449144875 c:\users\sebyp\desktop\sisgestion corregido\headers\ventas.h
+
+1449706331 c:\users\sebyp\desktop\sisgestion corregido\headers\listados.h
+
+1449700135 c:\users\sebyp\desktop\sisgestion corregido\headers\menues.h
+
+1456940872 source:c:\users\sebyp\desktop\sisgestion\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"Headers/Clases.h"
+	"Headers/Funciones_Utiles.h"
+	"Headers/Fecha.h"
+	"Headers/User.h"
+	"Headers/Clientes.h"
+	"Headers/Productos.h"
+	"Headers/Ventas.h"
+	"Headers/Listados.h"
+	"Headers/Menues.h"
+
+1456878809 c:\users\sebyp\desktop\sisgestion\headers\clases.h
+
+1456957498 c:\users\sebyp\desktop\sisgestion\headers\funciones_utiles.h
+
+1456875721 c:\users\sebyp\desktop\sisgestion\headers\fecha.h
+
+1456889782 c:\users\sebyp\desktop\sisgestion\headers\user.h
+
+1456889762 c:\users\sebyp\desktop\sisgestion\headers\clientes.h
+
+1456886437 c:\users\sebyp\desktop\sisgestion\headers\productos.h
+
+1456954820 c:\users\sebyp\desktop\sisgestion\headers\ventas.h
+
+1456964412 c:\users\sebyp\desktop\sisgestion\headers\listados.h
+
+1456957187 c:\users\sebyp\desktop\sisgestion\headers\menues.h
+
+1456990784 source:c:\users\sebyp\desktop\sisgestion_seb\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<io.h>
+	"Headers/Clases.h"
+	"Headers/Funciones_Utiles.h"
+	"Headers/Fecha.h"
+	"Headers/User.h"
+	"Headers/Clientes.h"
+	"Headers/Productos.h"
+	"Headers/Ventas.h"
+	"Headers/Listados.h"
+	"Headers/Menues.h"
+
+1456984793 c:\users\sebyp\desktop\sisgestion_seb\headers\clases.h
+
+1456990980 c:\users\sebyp\desktop\sisgestion_seb\headers\funciones_utiles.h
+
+1456984793 c:\users\sebyp\desktop\sisgestion_seb\headers\fecha.h
+
+1456979680 c:\users\sebyp\desktop\sisgestion_seb\headers\user.h
+
+1456980984 c:\users\sebyp\desktop\sisgestion_seb\headers\clientes.h
+
+1456982732 c:\users\sebyp\desktop\sisgestion_seb\headers\productos.h
+
+1456989651 c:\users\sebyp\desktop\sisgestion_seb\headers\ventas.h
+
+1456991772 c:\users\sebyp\desktop\sisgestion_seb\headers\listados.h
+
+1456988421 c:\users\sebyp\desktop\sisgestion_seb\headers\menues.h
+
+1457007057 source:c:\users\administrador\desktop\sisgestion_seb\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	<io.h>
+	"Headers/Clases.h"
+	"Headers/Funciones_Utiles.h"
+	"Headers/Fecha.h"
+	"Headers/User.h"
+	"Headers/Clientes.h"
+	"Headers/Productos.h"
+	"Headers/Ventas.h"
+	"Headers/Listados.h"
+	"Headers/Final.h"
+	"Headers/Menues.h"
+
+1456993302 c:\users\administrador\desktop\sisgestion_seb\headers\clases.h
+
+1456993302 c:\users\administrador\desktop\sisgestion_seb\headers\funciones_utiles.h
+
+1456993302 c:\users\administrador\desktop\sisgestion_seb\headers\fecha.h
+
+1456993302 c:\users\administrador\desktop\sisgestion_seb\headers\user.h
+
+1456993302 c:\users\administrador\desktop\sisgestion_seb\headers\clientes.h
+
+1456993302 c:\users\administrador\desktop\sisgestion_seb\headers\productos.h
+
+1456993302 c:\users\administrador\desktop\sisgestion_seb\headers\ventas.h
+
+1456993302 c:\users\administrador\desktop\sisgestion_seb\headers\listados.h
+
+1456993302 c:\users\administrador\desktop\sisgestion_seb\headers\menues.h
+
+1457007858 c:\users\administrador\desktop\sisgestion_seb\headers\final.h
+

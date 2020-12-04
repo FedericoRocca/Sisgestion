@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Headers\Clases.h" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Headers\Clientes.h" open="0" top="0" tabpos="6">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Headers\Fecha.h" open="0" top="0" tabpos="9">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Headers\Final.h" open="1" top="1" tabpos="6">
+		<Cursor position="2829" topLine="69" />
+	</File>
+	<File name="Headers\Funciones_Utiles.h" open="1" top="0" tabpos="2">
+		<Cursor position="23214" topLine="44" />
+	</File>
+	<File name="Headers\Listados.h" open="1" top="0" tabpos="3">
+		<Cursor position="18654" topLine="68" />
+	</File>
+	<File name="Headers\Menues.h" open="1" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Headers\Productos.h" open="1" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Headers\User.h" open="0" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Headers\Ventas.h" open="1" top="0" tabpos="4">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1470" topLine="41" />
+	</File>
+</CodeBlocks_layout_file>
